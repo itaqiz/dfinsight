@@ -1,10 +1,5 @@
-
-[build-system]
-requires = ["setuptools>=61"]
-build-backend = "setuptools.build_meta"
-
 [project]
-name = "dfinsight"
+name = "dfinsight-kit"
 version = "0.1.0"
 description = "A lightweight data quality and dataset inspection library for pandas DataFrames"
 readme = "README.md"

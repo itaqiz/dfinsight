@@ -16,7 +16,7 @@ A lightweight Python library for initial dataset inspection and basic data-quali
 ## Installation
 
 ```bash
-pip install dfinsight
+pip install dfinsight-kit
 ````
 
 ## Example
@@ -41,6 +41,10 @@ quality_report(df)
 * Basic numerical statistics
 
 The missing-value severity levels are heuristic indicators intended to support initial dataset investigation.
+
+## Links
+
+- [PyPI Package](https://pypi.org/project/dfinsight-kit/)
 
 ## Version
 
